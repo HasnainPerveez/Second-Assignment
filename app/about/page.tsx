@@ -1,7 +1,7 @@
 const About = () => {
     return (
         <div>
-            <h1>About Hasnain Creative Design Agency</h1>
+            <h1>Hasnain Creative Design Agency</h1>
             
                 <p>
                     At HASNAIN Creative Design Agency, we believe in the power of creativity to transform brands and elevate businesses. Founded by a passionate team of designers and digital strategists, we specialize in delivering innovative design solutions that not only look great but also drive results.
